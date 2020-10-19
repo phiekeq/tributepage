@@ -1,0 +1,59 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+.title{
+text-align: center;
+font-family: RobotoDraft;
+text-transform: capitalize;
+font-size: 70px;
+border: 2px black solid ;
+color: rgb(0, 0, 0);
+margin-top: 50px;
+margin-left: 50px;
+padding-left: 20px;
+font-weight: 300;
+letter-spacing: .25em;
+width: 400px;
+border-radius: 20px;
+}
+.abouttitle{
+font-family: RobotoDraft;
+text-transform: uppercase;
+margin-left: 300px;
+margin-right: 300px;
+margin-top: 20px;
+font-size: 50px;
+padding: 20px;
+border-bottom: 2px solid black;
+}
+.about{
+font-family: RobotoDraft;
+margin-left: 300px;
+margin-right: 450px;
+margin-top: 10px;
+font-size: 20px;
+}
+body{
+background-color: #DEDEDE;
+}
+
+.myHeader {
+background: url("https://image.cnbcfm.com/api/v1/image/105368197-1533136241068gettyimages-471759170.jpeg?v=1544789595&w=1400&h=950") no-repeat center scroll;
+background-size: cover;
+padding: 320px;
+}
+
+.menu ul{
+	display: inline-flex;
+	margin: 30px;
+		font-family: "RobotoDraft", cursive;
+	font-size: 25px;
+
+}
+.menu ul li{
+
+	margin: 0 10px;
+	color: #DEDEDE;
+}

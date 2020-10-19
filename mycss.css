@@ -1,0 +1,70 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+.title{
+text-align: center;
+font-family: RobotoDraft;
+text-transform: capitalize;
+font-size: 70px;
+border: 2px solid #fff;
+color: rgb(255, 255, 255);
+margin-top: 50px;
+margin-left: 50px;
+padding-left: 20px;
+font-weight: 200;
+letter-spacing: .25em;
+width: 400px;
+border-radius: 20px;
+}
+.abouttitle{
+font-family: RobotoDraft;
+text-transform: uppercase;
+margin-left: 300px;
+margin-right: 300px;
+margin-top: 20px;
+font-size: 50px;
+padding: 20px;
+border-bottom: 2px solid black;
+}
+.about{
+font-family: RobotoDraft;
+margin-left: 300px;
+margin-right: 450px;
+margin-top: 10px;
+font-size: 20px;
+}
+body{
+background-color: #DEDEDE;
+}
+
+.myHeader {
+background: url("https://miro.medium.com/max/11520/1*L2Qb88ghLdpAgh_dPRM4rA.jpeg") no-repeat center scroll;
+background-size: cover;
+padding: 320px;
+}
+
+.image1{
+	margin-left: 1475px;
+	margin-bottom: 650px;
+	margin-top: -650px;
+
+}
+.image2{
+	margin-left: 1475px;
+	margin-top: -650px;
+}
+
+.menu ul{
+	display: inline-flex;
+	margin: 30px;
+		font-family: "RobotoDraft", cursive;
+	font-size: 25px;
+
+}
+.menu ul li{
+
+	margin: 0 10px;
+	color: #DEDEDE;
+}
